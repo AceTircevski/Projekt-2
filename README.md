@@ -1,1 +1,1 @@
-# Projekt 2
+<link rel="stylesheet" href="./style.css" />
