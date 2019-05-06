@@ -1,13 +1,51 @@
 
-
-
 body {
-  background-color: #242f44;
-  color:white;
-  font-family: Helvetica;
+background-color: white;
+
+}
+
+
+p {
+  font-family: Arial;
+
 }
 
 h1 {
-background-color: red;
-
+  color: maroon;
 }
+
+h2.destination {
+  font-family: cursive;
+  color: blue;
+}
+
+h5 {
+  color: rebeccapurple !important;
+}
+
+h5,
+p {
+  font-family: Georgia;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.description h5 {
+  color: teal;
